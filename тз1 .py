@@ -1,3 +1,5 @@
+
+#Кочегаров Кирилл 226 БИ ТЗ-1
 class Bace:
 
     def __init__(self, name, phone, mail):
