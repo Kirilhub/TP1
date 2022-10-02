@@ -90,7 +90,7 @@ class Contacts:
 
                 for id in ids:
 
-                    if fio[2]!=self.bd[2][id]:
+                    if fio[2]!=self.bd[3][id]:
                         ids.remove(id)
             else:
                 for i in range(len(self.bd[3])):
